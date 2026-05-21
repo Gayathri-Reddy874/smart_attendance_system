@@ -1,0 +1,8 @@
+opencv-python
+numpy
+tensorflow
+streamlit
+mysql-connector-python
+deep_sort_realtime
+Pillow
+scipy
